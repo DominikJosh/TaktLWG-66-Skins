@@ -1,30 +1,3 @@
-
-Zur Installation der Liveries bitte der Ordnerstrucktur folgen und den Ordner "TaktLWG 66" in den entsprechenden Ordner kopieren.
-
-Zielordner 1: "Euer Installationsmedium von DCS z.B.:"  C:\program files\Eagle Dynamics\DCS World OpenBeta\Bazar\Liveries\ "das entsprechende Modul" 
-
-Module unter Zielordner 1:
-UH-1H
-KA-50
-Mi-8
-A10A
-A10C
-
-Zielordner 2: "Euer Installationsmedium von DCS z.B.:" C:\Program Files\Eagle Dynamics\DCS World OpenBeta\CoreMods\aircraft\"das entsprechende Modul"\Liveries\"das entsprechende Modul"
-
-Module unter Zielordner 2:
-- F/A-18C erstellt von Lord Shelter/Dominik
-- AV-8B   erstellt von Lord Shelter/Dominik
-- F-14    erstellt von Lord Shelter/Dominik
-- AJS-37  erstellt von Lord Shelter/Dominik
-- M-2000C erstellt von Lord Shelter/Dominik
-- F-5E    erstellt von Lord Shelter/Dominik
-- F-16C   erstellt von Lord Shelter/Dominik
-
-Bitte auch die Liveries installieren, von denen ihr die Module nicht besitzt, so ist es bei Screenshots aber so, dass ihr die Liveries der Piloten die dieses Modul besitzen seht und somit auch auf dem Screenshot zu sehen sind.
-
-
-
 Bisher enthaltene Liveries:
 - F/A-18C erstellt von Lord Shelter/Dominik
 - AV-8B   erstellt von Lord Shelter/Dominik
@@ -38,6 +11,29 @@ Bisher enthaltene Liveries:
 - A10C    erstellt von Lord Shelter/Dominik
 - F-5E    erstellt von Lord Shelter/Dominik
 - F-16C   erstellt von Lord Shelter/Dominik
+
+Zur Installation der Liveries bitte der Ordnerstrucktur folgen und den Ordner "TaktLWG 66" in den entsprechenden Ordner kopieren.
+Bitte auch die Liveries installieren, von denen ihr die Module nicht besitzt, so ist es bei Screenshots aber so, dass ihr die Liveries der Piloten die dieses Modul besitzen seht und somit auch auf dem Screenshot zu sehen sind.
+
+Zielordner 1: "Euer Installationsmedium von DCS z.B.:"  C:\program files\Eagle Dynamics\DCS World OpenBeta\Bazar\Liveries\ "das entsprechende Modul" 
+
+Module unter Zielordner 1:
+- UH-1H
+- KA-50
+- Mi-8
+- A10A
+- A10C
+
+Zielordner 2: "Euer Installationsmedium von DCS z.B.:" C:\Program Files\Eagle Dynamics\DCS World OpenBeta\CoreMods\aircraft\"das entsprechende Modul"\Liveries\"das entsprechende Modul"
+
+Module unter Zielordner 2:
+- F/A-18C 
+- AV-8B   
+- F-14    
+- AJS-37  
+- M-2000C 
+- F-5E    
+- F-16C   
 
 
 Änderungen/Changlog:
