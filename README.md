@@ -52,8 +52,8 @@ Module unter Zielordner 2:
 - M-2000C 
 
 Änderungen/Changlog:
-04.01.2020 F-14 hinzugefügt
-05.01.2020 Heli-Update: KA-50, Mi8, UH-1H und AJS-37 hinzugefügt, fehlenden Treibstoffbehälter der F/A-18C ergänzt
-06.01.2020 M-2000C hinzugefügt, Länderspezifikationen aus allen .lua-Files entfernt
-08.01.2020 A10A, A10C, F-5E, F-16C hinzugefügt, UH-1H Update
-10.01.2020 F-15C, KC-130, KC-135, KC-135MPRS, IL-78M hinzugefügt
+- 04.01.2020 F-14 hinzugefügt
+- 05.01.2020 Heli-Update: KA-50, Mi8, UH-1H und AJS-37 hinzugefügt, fehlenden Treibstoffbehälter der F/A-18C ergänzt
+- 06.01.2020 M-2000C hinzugefügt, Länderspezifikationen aus allen .lua-Files entfernt
+- 08.01.2020 A10A, A10C, F-5E, F-16C hinzugefügt, UH-1H Update
+- 10.01.2020 F-15C, KC-130, KC-135, KC-135MPRS, IL-78M hinzugefügt
