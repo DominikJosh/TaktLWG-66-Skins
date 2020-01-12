@@ -3,24 +3,25 @@
 Es sind weitere Liveries geplant und regelmäßige Updates werden folgen. Zur Zeit gibt es die unten stehenden Liveries, inklusive der AI-Flugzeuge: KC-130, KC-135/-MPRS, IL78M.
 
 Bisher enthaltene Liveries:
-- A10A        erstellt von Lord Shelter/Dominik
-- A10C        erstellt von Lord Shelter/Dominik
-- AJS-37      erstellt von Lord Shelter/Dominik
-(- AV-8B       erstellt von Lord Shelter/Dominik)
-- B-52H       erstellt von Lord Shelter/Dominik
-- F-5E        erstellt von Lord Shelter/Dominik
-- F-14        erstellt von Lord Shelter/Dominik
-- F-15C       erstellt von Lord Shelter/Dominik
-- F-16C       erstellt von Lord Shelter/Dominik
-- F/A-18C     erstellt von Lord Shelter/Dominik
-- KA-50       erstellt von Lord Shelter/Dominik
-- KC-130      erstellt von Lord Shelter/Dominik
-- KC-135      erstellt von Lord Shelter/Dominik
-- KC-135MPRS  erstellt von Lord Shelter/Dominik
-- IL78M       erstellt von Lord Shelter/Dominik
-- M-2000C     erstellt von Lord Shelter/Dominik
-- Mi-8        erstellt von Lord Shelter/Dominik
-- UH-1H       erstellt von Lord Shelter/Dominik
+- A10A        erstellt von Shelter/Dominik
+- A10C        erstellt von Shelter/Dominik
+- AJS-37      erstellt von Shelter/Dominik
+(- AV-8B       erstellt von Shelter/Dominik)
+- B1B-Lancer  erstellt von Shelter/Dominik
+- B-52H       erstellt von Shelter/Dominik
+- F-5E        erstellt von Shelter/Dominik
+- F-14        erstellt von Shelter/Dominik
+- F-15C       erstellt von Shelter/Dominik
+- F-16C       erstellt von Shelter/Dominik
+- F/A-18C     erstellt von Shelter/Dominik
+- KA-50       erstellt von Shelter/Dominik
+- KC-130      erstellt von Shelter/Dominik
+- KC-135      erstellt von Shelter/Dominik
+- KC-135MPRS  erstellt von Shelter/Dominik
+- IL78M       erstellt von Shelter/Dominik
+- M-2000C     erstellt von Shelter/Dominik
+- Mi-8        erstellt von Shelter/Dominik
+- UH-1H       erstellt von Shelter/Dominik
 
 Zur Installation der Liveries bitte der Ordnerstrucktur folgen und den Ordner "TaktLWG 66" in den entsprechenden Ordner kopieren.
 Bitte auch die Liveries installieren, von denen ihr die Module nicht besitzt, so ist es bei Screenshots aber so, dass ihr die Liveries der Piloten die dieses Modul besitzen seht und somit auch auf dem Screenshot zu sehen sind.
