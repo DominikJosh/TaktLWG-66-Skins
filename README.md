@@ -33,6 +33,7 @@ Zielordner 1: "Euer Installationsmedium von DCS z.B.:"  C:\program files\Eagle D
 Module unter Zielordner 1:
 - A10A
 - A10C
+- B1B
 - B-52H
 - F-15C
 - KA-50
@@ -60,4 +61,4 @@ Module unter Zielordner 2:
 - 06.01.2020 M-2000C hinzugefügt, Länderspezifikationen aus allen .lua-Files entfernt
 - 08.01.2020 A10A, A10C, F-5E, F-16C hinzugefügt, UH-1H Update
 - 10.01.2020 F-15C, KC-130, KC-135, KC-135MPRS, IL-78M hinzugefügt
-- 12.01.2020 Neuen F/A-18C Skin hochgeladen inklusive personalierten Skins, F-16C personaliesierungen, B-52H hinzugefügt
+- 12.01.2020 Neuen F/A-18C Skin hochgeladen inklusive personalierten Skins, F-16C personaliesierungen, B-52H und B1B hinzugefügt
