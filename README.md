@@ -7,6 +7,7 @@ Bisher enthaltene Liveries:
 - A10C        erstellt von Lord Shelter/Dominik
 - AJS-37      erstellt von Lord Shelter/Dominik
 - AV-8B       erstellt von Lord Shelter/Dominik
+- B-52H       erstellt von Lord Shelter/Dominik
 - F-5E        erstellt von Lord Shelter/Dominik
 - F-14        erstellt von Lord Shelter/Dominik
 - F-15C       erstellt von Lord Shelter/Dominik
@@ -31,6 +32,7 @@ Zielordner 1: "Euer Installationsmedium von DCS z.B.:"  C:\program files\Eagle D
 Module unter Zielordner 1:
 - A10A
 - A10C
+- B-52H
 - F-15C
 - KA-50
 - KC-135
