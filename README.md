@@ -22,6 +22,7 @@ Bisher enthaltene Liveries:
 - IL78M       erstellt von Shelter/Dominik
 - M-2000C     erstellt von Shelter/Dominik
 - Mi-8        erstellt von Shelter/Dominik
+- MiG21bis    erstellt von Shelter/Dominik
 - UH-1H       erstellt von Shelter/Dominik
 
 Zur Installation der Liveries bitte der Ordnerstrucktur folgen und den Ordner "TaktLWG 66" in den entsprechenden Ordner kopieren.
@@ -56,6 +57,7 @@ Module unter Zielordner 2:
 - F-16C
 - F/A-18C 
 - M-2000C 
+- MiG21bis
 
 Änderungen/Changlog:
 - 04.01.2020 F-14 hinzugefügt
@@ -64,4 +66,4 @@ Module unter Zielordner 2:
 - 08.01.2020 A10A, A10C, F-5E, F-16C hinzugefügt, UH-1H Update
 - 10.01.2020 F-15C, KC-130, KC-135, KC-135MPRS, IL-78M hinzugefügt
 - 12.01.2020 Neuen F/A-18C Skin hochgeladen inklusive personalierten Skins, F-16C personaliesierungen, B-52H und B1B hinzugefügt
-- 15.01.2020 Fw-190 A8 Skin hochgeladen, personalisierte Skins für F-18, F-16, KA-50, M-2000C, AJS-37, A-10C hinzugefügt
+- 15.01.2020 Fw-190A8 und MiG21bis Skin hochgeladen, personalisierte Skins für F-18, F-16, KA-50, M-2000C, AJS-37, A-10C hinzugefügt
