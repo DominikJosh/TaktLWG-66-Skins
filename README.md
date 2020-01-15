@@ -14,6 +14,7 @@ Bisher enthaltene Liveries:
 - F-15C       erstellt von Shelter/Dominik
 - F-16C       erstellt von Shelter/Dominik
 - F/A-18C     erstellt von Shelter/Dominik
+- Fw-190 A8   erstellt von Shelter/Dominik
 - KA-50       erstellt von Shelter/Dominik
 - KC-130      erstellt von Shelter/Dominik
 - KC-135      erstellt von Shelter/Dominik
@@ -36,6 +37,7 @@ Module unter Zielordner 1:
 - B1B
 - B-52H
 - F-15C
+- Fw-190 A8
 - KA-50
 - KC-135
 - IL78M
@@ -62,3 +64,4 @@ Module unter Zielordner 2:
 - 08.01.2020 A10A, A10C, F-5E, F-16C hinzugefügt, UH-1H Update
 - 10.01.2020 F-15C, KC-130, KC-135, KC-135MPRS, IL-78M hinzugefügt
 - 12.01.2020 Neuen F/A-18C Skin hochgeladen inklusive personalierten Skins, F-16C personaliesierungen, B-52H und B1B hinzugefügt
+- 15.01.2020 Fw-190 A8 Skin hochgeladen, personalisierte Skins für F-18, F-16, KA-50, M-2000C, AJS-37, A-10C hinzugefügt
