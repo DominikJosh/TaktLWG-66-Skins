@@ -9,11 +9,9 @@ livery = {
 	{"f15wingr", 0 ,"f15_wing_r_Takt",false};
 	{"f15stab", 0 ,"f15_stab_Takt",false};
 	{"f15stab", 3 ,"f15_decol_ferris",false};
-	{"f15numbers", 0 ,"f15_numbers_ferris",false};
+	{"f15numbers", 0 ,"f15_numbersF",true};
 	{"pilot_F15_patch", 0 ,"pilot_F15_patch_65A_sqdn",true};
 	{"pilot_F15_00_body", 0 ,"pilot_f15_00_a",true};
-	{"f15PTB", 0 ,"f15_PTB_Takt",false};
-	
+	{"f15PTB", 0 ,"f15_Takt",false};
 }
-
 name = "TaktLWG 66"
