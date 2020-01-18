@@ -75,5 +75,5 @@ Module unter Zielordner 2:
 - 12.01.2020 Neuen F/A-18C Skin hochgeladen inklusive personalierten Skins, F-16C personaliesierungen, B-52H und B1B hinzugefügt
 - 15.01.2020 Fw-190A8 und MiG21bis Skin hochgeladen, personalisierte Skins für F-18, F-16, KA-50, M-2000C, AJS-37, A-10C hinzugefügt
 - 16.01.2020 Personalisierte Skins der F-14b (Shelter/Alkman) hochgeladen
-- 17.01.2020 Personalisierte Skins der F-14b (Cake/Bumper) hochgeladen, fehlende Datei in (Shelter/Alkman) nachgereicht, Installationsanleitung ergänzt
+- 17.01.2020 Personalisierte Skins der F-14b (Cake/Bumper) hochgeladen, Personalisierte UH-1H (Cake) hochgeladen, fehlende Datei in (Shelter/Alkman) nachgereicht, Installationsanleitung ergänzt
 
