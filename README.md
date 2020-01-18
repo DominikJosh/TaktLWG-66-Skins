@@ -2,6 +2,13 @@
 
 Es sind weitere Liveries geplant und regelmäßige Updates werden folgen. Zur Zeit gibt es die unten stehenden Liveries, inklusive der AI-Flugzeuge: KC-130, KC-135/-MPRS, IL78M.
 
+<b>Installations- und Update-Anleitung</b>
+1.) Liveries als .rar-Datei downloaden
+2.) .rar-Datei entpacken
+3.) die beiden Ordner "Bazar" und "Coremods" kopieren
+4.) unter z.B (Installationsort weicht ab, wenn DCS nicht auf der Festplatte C installiert wurde)  "C:\program files\Eagle Dynamics\DCS World OpenBeta" beide Ordner einfügen, er ersetzt nur die Dateien, welche schon vorhanden sind, Ordner werden nicht überschrieben, nur fehlende werden hinzugefügt.
+5.) Im Rearmingfenster können nun immer die TaktLwG 66 Skins für die untenstehenden Module ausgewählt werden. Bei der F-14b muss immer der Pilot das Liverie wählen und dann seinen Namen, somit ist immer auch der Name für den RIO richtig, zu dem kann ich nur für feste F-14 Kombis aus Pilot und RIO Liveries erstellen, da es sonst extrem aufwendig wird.
+
 Bisher enthaltene Liveries:
 - A10A        erstellt von Shelter/Dominik
 - A10C        erstellt von Shelter/Dominik
@@ -68,4 +75,5 @@ Module unter Zielordner 2:
 - 12.01.2020 Neuen F/A-18C Skin hochgeladen inklusive personalierten Skins, F-16C personaliesierungen, B-52H und B1B hinzugefügt
 - 15.01.2020 Fw-190A8 und MiG21bis Skin hochgeladen, personalisierte Skins für F-18, F-16, KA-50, M-2000C, AJS-37, A-10C hinzugefügt
 - 16.01.2020 Personalisierte Skins der F-14b (Shelter/Alkman) hochgeladen
+- 17.01.2020 Personalisierte Skins der F-14b (Cake/Bumper) hochgeladen, fehlende Datei in (Shelter/Alkman) nachgereicht
 
