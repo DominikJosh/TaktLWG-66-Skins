@@ -240,4 +240,4 @@ livery = {
 
 	
 }
-name = "TaktLwG 66 - Timber24"
+name = "TaktLwG 66 - Taurus"
