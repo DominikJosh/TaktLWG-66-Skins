@@ -78,4 +78,4 @@ Module unter Zielordner 2:
 - 17.01.2020 Personalisierte Skins der F-14b (Cake/Bumper) hochgeladen, Personalisierte UH-1H (Cake) hochgeladen, fehlende Datei in (Shelter/Alkman) nachgereicht, Installationsanleitung ergänzt
 - 20.01.2020 E-3a hinzugefügt
 - 21.01.2020 Feherbehebung von der AJS-37 (Logo falsch herum) und der falschen Namensgebung bei den F-18 personel-skins
-- 17.02.2020 Personalisierte Skins von Loki hinzugefügt, Boardnummern auf den Personalisierten F-16 hinzugefügt, korrektes Logo auf die F-16-Sorbus eingefügt, Personaliesierte UH1-Huey für Sorbus hinzugefügt
+- 17.02.2020 Personalisierte Skins von Loki hinzugefügt, Boardnummern auf den Personalisierten F-16 hinzugefügt, korrektes Logo auf die F-16-Sorbus eingefügt, Personaliesierte UH1-Huey für Sorbus hinzugefügt 
