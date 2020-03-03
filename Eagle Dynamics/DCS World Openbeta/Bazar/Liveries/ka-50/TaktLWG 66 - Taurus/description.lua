@@ -18,6 +18,6 @@ livery = {
 	{"KA-50_BORT_NUMBERs", 0, "empty", true},
 	{"KA-50_Turkey_Numbers", 0, "empty", true},
 }
-
+id = 10
 name = "TaktLWG 66 - Taurus"
 

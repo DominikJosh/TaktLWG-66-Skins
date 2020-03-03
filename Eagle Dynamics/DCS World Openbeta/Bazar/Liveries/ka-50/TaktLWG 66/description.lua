@@ -16,8 +16,10 @@ livery = {
 	{"KA-50_LRM-CENTRE", 0, "KA-50-LRM_centre-USA1", false},
 	{"KA-50-LRM_B", 0, "KA-50-LRM_B-USA1", false},
 	{"KA-50_BORT_NUMBERs", 0, "empty", true},
-	{"KA-50_Turkey_Numbers", 0, "TactNumbers-USAF-red", false},
+	{"KA-50_Turkey_Numbers", 0, "empty", true},
 }
-
+id = 10
 name = "TaktLWG 66"
+
+
 
