@@ -79,3 +79,6 @@ Module unter Zielordner 2:
 - 20.01.2020 E-3a hinzugefügt
 - 21.01.2020 Feherbehebung von der AJS-37 (Logo falsch herum) und der falschen Namensgebung bei den F-18 personel-skins
 - 17.02.2020 Personalisierte Skins von Loki hinzugefügt, Boardnummern auf den Personalisierten F-16 hinzugefügt, korrektes Logo auf die F-16-Sorbus eingefügt, Personaliesierte UH1-Huey für Sorbus hinzugefügt 
+20.02.2020 C-101 und SA324 Gazelle upload
+22.02.2020 Fehlerbeseitigungen mit Namen/Boardnummern der Mi8, F16, P51D
+03.03.2020 Großes Helikopter Update (neues Logo), personalisierte Skins überarbeitet/nachgereicht
