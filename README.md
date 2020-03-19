@@ -13,7 +13,7 @@ Bisher enthaltene Liveries:
 - A10A        erstellt von Shelter/Dominik
 - A10C        erstellt von Shelter/Dominik
 - AJS-37      erstellt von Shelter/Dominik
-- (AV-8B       erstellt von Shelter/Dominik)
+- AV-8B       erstellt von Shelter/Dominik
 - B1B-Lancer  erstellt von Shelter/Dominik
 - B-52H       erstellt von Shelter/Dominik
 - F-5E        erstellt von Shelter/Dominik
@@ -22,6 +22,7 @@ Bisher enthaltene Liveries:
 - F-16C       erstellt von Shelter/Dominik
 - F/A-18C     erstellt von Shelter/Dominik
 - Fw-190 A8   erstellt von Shelter/Dominik
+- JF-17       erstellt von Shelter/Dominik
 - KA-50       erstellt von Shelter/Dominik
 - KC-130      erstellt von Shelter/Dominik
 - KC-135      erstellt von Shelter/Dominik
@@ -62,7 +63,8 @@ Module unter Zielordner 2:
 - F-5E
 - F-14
 - F-16C
-- F/A-18C 
+- F/A-18C
+- JF-17
 - M-2000C 
 - MiG21bis
 
@@ -79,6 +81,11 @@ Module unter Zielordner 2:
 - 20.01.2020 E-3a hinzugefügt
 - 21.01.2020 Feherbehebung von der AJS-37 (Logo falsch herum) und der falschen Namensgebung bei den F-18 personel-skins
 - 17.02.2020 Personalisierte Skins von Loki hinzugefügt, Boardnummern auf den Personalisierten F-16 hinzugefügt, korrektes Logo auf die F-16-Sorbus eingefügt, Personaliesierte UH1-Huey für Sorbus hinzugefügt 
-20.02.2020 C-101 und SA324 Gazelle upload
-22.02.2020 Fehlerbeseitigungen mit Namen/Boardnummern der Mi8, F16, P51D
-03.03.2020 Großes Helikopter Update (neues Logo), personalisierte Skins überarbeitet/nachgereicht
+- 20.02.2020 C-101 und SA324 Gazelle upload
+- 22.02.2020 Fehlerbeseitigungen mit Namen/Boardnummern der Mi8, F16, P51D
+- 03.03.2020 Großes Helikopter Update (neues Logo), personalisierte Skins überarbeitet/nachgereicht
+- 04.03.2020 Logo der F-16C repariert/gefixed
+- 11.03.2020 JF-17 Skins hinzugefügt
+- 12.03.2020 Personalisierte Heli-Skins für Alkman hochgeladen
+- 17.03.2020 AJS-37 Update/Verbesserung
+- 19.03.2020 Personalisierte Skins der F-16C hinzugefügt, weitere kleinere Probleme der F-16C Liverie behoben
