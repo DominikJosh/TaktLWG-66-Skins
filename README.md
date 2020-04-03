@@ -16,12 +16,14 @@ Bisher enthaltene Liveries:
 - AV-8B       erstellt von Shelter/Dominik
 - B1B-Lancer  erstellt von Shelter/Dominik
 - B-52H       erstellt von Shelter/Dominik
+- Bf-109K-4   erstellt von Shelter/Dominik
 - F-5E        erstellt von Shelter/Dominik
 - F-14        erstellt von Shelter/Dominik
 - F-15C       erstellt von Shelter/Dominik
 - F-16C       erstellt von Shelter/Dominik
 - F/A-18C     erstellt von Shelter/Dominik
 - Fw-190 A8   erstellt von Shelter/Dominik
+- Fw-190 D9   erstellt von Shelter/Dominik
 - JF-17       erstellt von Shelter/Dominik
 - KA-50       erstellt von Shelter/Dominik
 - KC-130      erstellt von Shelter/Dominik
@@ -45,8 +47,10 @@ Module unter Zielordner 1:
 - A10C
 - B1B
 - B-52H
+- Bf-109K4
 - F-15C
 - Fw-190 A8
+- Fw-190 D9
 - KA-50
 - KC-135
 - IL78M
@@ -89,3 +93,7 @@ Module unter Zielordner 2:
 - 12.03.2020 Personalisierte Heli-Skins für Alkman hochgeladen
 - 17.03.2020 AJS-37 Update/Verbesserung
 - 19.03.2020 Personalisierte Skins der F-16C hinzugefügt, weitere kleinere Probleme der F-16C Liverie behoben
+- 20.03.2020 Bugbehebung sowie Personalisierte Skins Magic
+- 21.03.2020 Restliche Personalisierte Skins nachgereicht
+- 02.04.2020 A-10A/C, MiG21bis und F/A-18C Update
+- 03.04.2020 Bf-109K4 und Fw190 D9 Upload
