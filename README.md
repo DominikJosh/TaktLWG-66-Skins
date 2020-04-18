@@ -97,3 +97,4 @@ Module unter Zielordner 2:
 - 21.03.2020 Restliche Personalisierte Skins nachgereicht
 - 02.04.2020 A-10A/C, MiG21bis und F/A-18C Update
 - 03.04.2020 Bf-109K4 und Fw190 D9 Upload
+- 18.04.2020 Personalisierte Skins "Deiwel" upgeloaded, Änderungen an Uh1h und KA50
